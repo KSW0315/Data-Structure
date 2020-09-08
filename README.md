@@ -1,3 +1,3 @@
 # Data-Structure
 
-collection of lab assignments on semester 1
+collection of lab assignments on semester 2
